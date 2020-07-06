@@ -10,6 +10,6 @@ public class Class1
 	
 	public static void main(String[] args) 
 	{
-		ystem.out.println(resource2);
+		system.out.println(resource2);
 	}
 }
