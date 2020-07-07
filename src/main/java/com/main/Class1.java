@@ -4,7 +4,6 @@ public class Class1
 {
 	public static String resource1 = "academic-credentials";
 	public String resource2 = "academic-levels";
-	private String resource3;
 	public String resource4 = "academic-programs";
 	public String resource5 = "acc-str-components";
 	public String resource6 = "acc-str-compo-values";
